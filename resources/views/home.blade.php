@@ -9,7 +9,7 @@
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="state">
                             <h6>Vechile In Today</h6>
-                            <h2>{{ $total_vehicle_in }}</h2>
+                            {{-- <h2>{{ $total_vehicle_in }}</h2> --}}
                         </div>
                         <div class="icon">
                             <i class="ik ik-truck"></i>
@@ -28,7 +28,7 @@
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="state">
                             <h6>Vechile Out Today</h6>
-                            <h2>{{ $total_vehicle_out }}</h2>
+                            {{-- <h2>{{ $total_vehicle_out }}</h2> --}}
                         </div>
                         <div class="icon">
                             <i class="ik ik-truck"></i>
@@ -47,7 +47,7 @@
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="state">
                             <h6>Total Vechiles</h6>
-                            <h2>{{ $total_vehicles }}</h2>
+                            {{-- <h2>{{ $total_vehicles }}</h2> --}}
                         </div>
                         <div class="icon">
                             <i class="ik ik-truck"></i>
@@ -66,7 +66,7 @@
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="state">
                             <h6>Revenue</h6>
-                            <h2>{{  $total_amount  }}</h2>
+                            {{-- <h2>{{  $total_amount  }}</h2> --}}
                         </div>
                         <div class="icon">
                             <i class="ik ik-credit-card"></i>
